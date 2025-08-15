@@ -11,7 +11,7 @@ const achievements = [
     icon: Target
   },
   {
-    title: "Built n sold profitable SaaS products",
+    title: "Built n sold SaaS products",
     description: "Successfully monetized and sold two SaaS products.",
     type: "business",
     icon: Briefcase
